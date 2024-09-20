@@ -1,2 +1,2 @@
-# aula07-1tdsb-1sem
-Exemplificando imagens e tags de referência. CSS e SCRIPT.
+# aula06-1tdsb-1sem
+Padrões Web, tags de bloco e de linhas, diferenças entre displays...
